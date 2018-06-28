@@ -1,0 +1,7 @@
+---
+server:
+  port: 0 
+synerzip:
+  user:
+    bu: BU-6
+
